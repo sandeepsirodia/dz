@@ -1,0 +1,7 @@
+{
+  "comment": "Fixed rates to USD. 1 unit of currency = N USD.",
+  "rates": {
+    "USD": 1.0,
+    "EUR": 1.08
+  }
+}

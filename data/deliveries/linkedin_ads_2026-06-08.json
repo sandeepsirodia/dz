@@ -1,0 +1,207 @@
+[
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780876800000,
+    "spend": {
+      "amount": "146.51",
+      "currency": "EUR"
+    },
+    "impressions": 52850,
+    "clicks": 1274
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780963200000,
+    "spend": {
+      "amount": "79.99",
+      "currency": "EUR"
+    },
+    "impressions": 31863,
+    "clicks": 464
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1781049600000,
+    "spend": {
+      "amount": "90.83",
+      "currency": "EUR"
+    },
+    "impressions": 30950,
+    "clicks": 304
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1781136000000,
+    "spend": {
+      "amount": "157.13",
+      "currency": "EUR"
+    },
+    "impressions": 38983
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1781222400000,
+    "spend": {
+      "amount": "167.97",
+      "currency": "EUR"
+    },
+    "impressions": 46958,
+    "clicks": 562
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1781308800000,
+    "spend": {
+      "amount": "171.17",
+      "currency": "EUR"
+    },
+    "impressions": 33400,
+    "clicks": 1041
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1781395200000,
+    "spend": {
+      "amount": "92.79",
+      "currency": "EUR"
+    },
+    "impressions": 21164
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780876800000,
+    "spend": {
+      "amount": "58.21",
+      "currency": "EUR"
+    },
+    "impressions": 21291,
+    "clicks": 185
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780963200000,
+    "spend": {
+      "amount": "48.16",
+      "currency": "EUR"
+    },
+    "impressions": 19222,
+    "clicks": 277
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1781049600000,
+    "spend": {
+      "amount": "67.61",
+      "currency": "EUR"
+    },
+    "impressions": 16197,
+    "clicks": 152
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1781136000000,
+    "spend": {
+      "amount": "93.93",
+      "currency": "EUR"
+    },
+    "impressions": 31067,
+    "clicks": 874
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1781222400000,
+    "spend": {
+      "amount": "77.20",
+      "currency": "EUR"
+    },
+    "impressions": 30577,
+    "clicks": 668
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1781308800000,
+    "spend": {
+      "amount": "54.09",
+      "currency": "EUR"
+    },
+    "impressions": 17579,
+    "clicks": 589
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1781395200000,
+    "spend": {
+      "amount": "49.95",
+      "currency": "EUR"
+    },
+    "impressions": 19852
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780876800000,
+    "spend": {
+      "amount": "51.80",
+      "currency": "EUR"
+    },
+    "impressions": 16218,
+    "clicks": 551
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780963200000,
+    "spend": {
+      "amount": "33.04",
+      "currency": "EUR"
+    },
+    "impressions": 10524,
+    "clicks": 198
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1781049600000,
+    "spend": {
+      "amount": "58.51",
+      "currency": "EUR"
+    },
+    "impressions": 18809,
+    "clicks": 612
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1781136000000,
+    "spend": {
+      "amount": "33.55",
+      "currency": "EUR"
+    },
+    "impressions": 7223
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1781222400000,
+    "spend": {
+      "amount": "33.23",
+      "currency": "EUR"
+    },
+    "impressions": 8829,
+    "clicks": 221
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1781308800000,
+    "spend": {
+      "amount": "52.90",
+      "currency": "EUR"
+    },
+    "impressions": 14742,
+    "clicks": 513
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1781395200000,
+    "spend": {
+      "amount": "52.17",
+      "currency": "EUR"
+    },
+    "impressions": 16276
+  }
+]

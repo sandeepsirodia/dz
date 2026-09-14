@@ -1,0 +1,6 @@
+[
+  {"campaign":"ABM Tier 1","date_ts":1780272000000,"spend":{"amount":"92.37","currency":"EUR"},"impressions":41097,"clicks":1283},
+  {"campaign":"ABM Tier 1","date_ts":1780358400000,"spend":{"amount":"152.88","currency":"EUR"},"impressions":68551},
+  {"campaign":"Talent Brand","date_ts":1780272000000,"spend":{"amount":"51.80","currency":"EUR"},"impressions":16218,"clicks":551},
+  {"campaign":"Talent Brand","date_ts":1780358400000,"spend":{"amount":"33.04","currency":"EUR"},"impressions":10524,"clicks":198}
+]

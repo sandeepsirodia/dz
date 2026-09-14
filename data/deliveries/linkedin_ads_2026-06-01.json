@@ -1,0 +1,212 @@
+[
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780272000000,
+    "spend": {
+      "amount": "92.37",
+      "currency": "EUR"
+    },
+    "impressions": 41097,
+    "clicks": 1283
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780358400000,
+    "spend": {
+      "amount": "152.88",
+      "currency": "EUR"
+    },
+    "impressions": 68551,
+    "clicks": 2338
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780444800000,
+    "spend": {
+      "amount": "161.21",
+      "currency": "EUR"
+    },
+    "impressions": 46624,
+    "clicks": 1368
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780531200000,
+    "spend": {
+      "amount": "79.22",
+      "currency": "EUR"
+    },
+    "impressions": 26418,
+    "clicks": 535
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780617600000,
+    "spend": {
+      "amount": "147.56",
+      "currency": "EUR"
+    },
+    "impressions": 54399,
+    "clicks": 1293
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780704000000,
+    "spend": {
+      "amount": "163.06",
+      "currency": "EUR"
+    },
+    "impressions": 71442,
+    "clicks": 780
+  },
+  {
+    "campaign": "ABM Tier 1",
+    "date_ts": 1780790400000,
+    "spend": {
+      "amount": "102.03",
+      "currency": "EUR"
+    },
+    "impressions": 20495,
+    "clicks": 653
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780272000000,
+    "spend": {
+      "amount": "82.57",
+      "currency": "EUR"
+    },
+    "impressions": 35641,
+    "clicks": 498
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780358400000,
+    "spend": {
+      "amount": "51.20",
+      "currency": "EUR"
+    },
+    "impressions": 20888,
+    "clicks": 679
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780444800000,
+    "spend": {
+      "amount": "66.25",
+      "currency": "EUR"
+    },
+    "impressions": 19890,
+    "clicks": 234
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780531200000,
+    "spend": {
+      "amount": "106.81",
+      "currency": "EUR"
+    },
+    "impressions": 29189,
+    "clicks": 621
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780617600000,
+    "spend": {
+      "amount": "53.34",
+      "currency": "EUR"
+    },
+    "impressions": 22637,
+    "clicks": 264
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780704000000,
+    "spend": {
+      "amount": "75.79",
+      "currency": "EUR"
+    },
+    "impressions": 27904,
+    "clicks": 783
+  },
+  {
+    "campaign": "Thought Leadership",
+    "date_ts": 1780790400000,
+    "spend": {
+      "amount": "106.79",
+      "currency": "EUR"
+    },
+    "impressions": 32360,
+    "clicks": 907
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780272000000,
+    "spend": {
+      "amount": "36.85",
+      "currency": "EUR"
+    },
+    "impressions": 11126,
+    "clicks": 118
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780358400000,
+    "spend": {
+      "amount": "50.49",
+      "currency": "EUR"
+    },
+    "impressions": 15156,
+    "clicks": 510
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780444800000,
+    "spend": {
+      "amount": "31.89",
+      "currency": "EUR"
+    },
+    "impressions": 9261,
+    "clicks": 184
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780531200000,
+    "spend": {
+      "amount": "69.28",
+      "currency": "EUR"
+    },
+    "impressions": 28828,
+    "clicks": 307
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780617600000,
+    "spend": {
+      "amount": "58.49",
+      "currency": "EUR"
+    },
+    "impressions": 19625,
+    "clicks": 675
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780704000000,
+    "spend": {
+      "amount": "45.17",
+      "currency": "EUR"
+    },
+    "impressions": 13441,
+    "clicks": 176
+  },
+  {
+    "campaign": "Talent Brand",
+    "date_ts": 1780790400000,
+    "spend": {
+      "amount": "35.54",
+      "currency": "EUR"
+    },
+    "impressions": 14719,
+    "clicks": 298
+  }
+]
